@@ -1,2 +1,2 @@
 # prototype-1
-learning how to use git with unity
+learning how to use Git with Unity
